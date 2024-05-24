@@ -1,3 +1,4 @@
+gsap.to("#box1" , {
  x:1200,
     duration:2,
     delay:1.5,
